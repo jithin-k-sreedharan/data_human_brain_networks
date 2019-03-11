@@ -21,7 +21,7 @@ Procedure:
   - A spanning tree is created first from the complete weighted network of the correlation matrix, and later k-nearest neighbors (higher correlation values) of each node are added into this network, where k is chosen as 10 in our case.
   - To form a adjacency matrix with binary values, we apply a threshold on each element of the correlation matrix. The threshold is chosen as the minimum value needed to make the resulting graph connected.
 
-The Python Jupyter notebook `forming_brain_nw_HCP.ipynb` contains code to form networks and write it in edge-list format from the correlation matrices with these two ideas.
+The Python Jupyter notebook `forming_brain_nw_HCP.ipynb` contains code to form networks and to write it in edge-list format from the correlation matrices with these two ideas.
 
 ## An Application
 
