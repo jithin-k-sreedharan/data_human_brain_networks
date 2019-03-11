@@ -23,7 +23,7 @@ Procedure:
 
 ## An Application
 
-This dataset has been used in the [TIMES](https://github.com/jithin-k-sreedharan/times) project that finds arrival of nodes in dynamic network given only one snapshot. Please see the TIMES (repository)[https://github.com/jithin-k-sreedharan/times] or the following paper for more information:
+This dataset has been used in the [TIMES](https://github.com/jithin-k-sreedharan/times) project that finds arrival of nodes in dynamic network given only one snapshot. Please see the TIMES [repository](https://github.com/jithin-k-sreedharan/times) or the following paper for more information:
 
 [Inferring Temporal Information from a Snapshot of a Dynamic Network](https://rdcu.be/boQ5z)\
 Jithin K. Sreedharan, Abram Magner, Ananth Grama, and Wojciech Szpankowski.\
