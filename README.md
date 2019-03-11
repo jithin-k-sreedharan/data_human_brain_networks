@@ -20,14 +20,13 @@ Procedure:
 * In order to form unweighted networks, we employ one of following two strategies:
   - A spanning tree is created first from the complete weighted network of the correlation matrix, and later k-nearest neighbors (higher correlation values) of each node are added into this network, where k is chosen as 10 in our case.
   - To form a adjacency matrix with binary values, we apply a threshold on each element of the correlation matrix. The threshold is chosen as the minimum value needed to make the resulting graph connected.
-*
 
 ## An Application
 
-This dataset has been used in the [TIMES](https://github.com/jithin-k-sreedharan/times) project that finds arrival of nodes in dynamic network given only one snapshot. Please see the TIMES (repository)[(https://github.com/jithin-k-sreedharan/times)] or the following paper for more information:
+This dataset has been used in the [TIMES](https://github.com/jithin-k-sreedharan/times) project that finds arrival of nodes in dynamic network given only one snapshot. Please see the TIMES (repository)[https://github.com/jithin-k-sreedharan/times] or the following paper for more information:
 
-  [Inferring Temporal Information from a Snapshot of a Dynamic Network](https://rdcu.be/boQ5z)\
-  Jithin K. Sreedharan, Abram Magner, Ananth Grama, and Wojciech Szpankowski.\
-  _Nature Scientific Reports 2019_. [Supplementary Material](https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-019-38912-0/MediaObjects/41598_2019_38912_MOESM1_ESM.pdf) (details of analysis and implementation)
+[Inferring Temporal Information from a Snapshot of a Dynamic Network](https://rdcu.be/boQ5z)\
+Jithin K. Sreedharan, Abram Magner, Ananth Grama, and Wojciech Szpankowski.\
+_Nature Scientific Reports 2019_. [Supplementary Material](https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-019-38912-0/MediaObjects/41598_2019_38912_MOESM1_ESM.pdf) (details of analysis and implementation)
 
 The correlation matrices are not uploaded due to their heavy size. If you need to work on them, please contact me.
