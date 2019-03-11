@@ -23,12 +23,12 @@ Procedure:
 
 The Python Jupyter notebook `forming_brain_nw_HCP.ipynb` contains code to form networks and to write it in edge-list format from the correlation matrices with these two ideas.
 
+The correlation matrices are not uploaded due to their heavy size. If you need to work on them, please contact me.
+
 ## An Application
 
-This dataset has been used in the [TIMES](https://github.com/jithin-k-sreedharan/times) project that finds arrival order of nodes in dynamic network given only one snapshot. Please see the TIMES [repository](https://github.com/jithin-k-sreedharan/times) or the following paper for more information:
+This dataset has been used in the [TIMES](https://github.com/jithin-k-sreedharan/times) project that finds arrival order of nodes in a dynamic network given only one snapshot. Please see the TIMES [repository](https://github.com/jithin-k-sreedharan/times) or the following paper for more information:
 
 [Inferring Temporal Information from a Snapshot of a Dynamic Network](https://rdcu.be/boQ5z)\
 Jithin K. Sreedharan, Abram Magner, Ananth Grama, and Wojciech Szpankowski.\
 _Nature Scientific Reports 2019_. [Supplementary Material](https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-019-38912-0/MediaObjects/41598_2019_38912_MOESM1_ESM.pdf) (details of analysis and implementation)
-
-The correlation matrices are not uploaded due to their heavy size. If you need to work on them, please contact me.
