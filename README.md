@@ -4,7 +4,7 @@ This repository provides brain networks (in edge-list format) of 100 unrelated y
 
 We found that node labels (brain region names) are not present or only partially available in most of the brain networks publicly available, and thus difficult to do targeted studies. We hope that our dataset will be helpful to many others.
 
-**Contributors:** [Vikram Ravindra](https://github.com/vikramravindra) and [Jithin K. Sreedharan](https://github.com/jithin-k-sreedharan).
+**Contributors:** [Jithin K. Sreedharan](https://github.com/jithin-k-sreedharan) and [Vikram Ravindra](https://github.com/vikramravindra).
 
 ## Description
 
